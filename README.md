@@ -1,7 +1,5 @@
 - 👋 Hi, I’m AJ.
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently working towards a Bachelor of cyber security & ADV dipl. Network Security
-- 💞️ I’m looking to collaborate on anything which is interesting
+- 👀 Cosplaying as a developer.
 - 📫 How to reach me  [Linkedin](https://www.linkedin.com/in/anthony-bale-139a9a21/])
 
 <!---
